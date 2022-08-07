@@ -30,7 +30,6 @@ QR Code generator and full instructions available there.
 	<a href="https://www.amdaniwasa.com">
 <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
 </div>
-### Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FBadboybhushitha%2FTOM-BOT-MD)
 
 ## Queen Amdi Team
