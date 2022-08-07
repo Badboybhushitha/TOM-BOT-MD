@@ -1,20 +1,20 @@
 {
-    "name": "Queen Amdi 3.6.2v",
-    "description": "Queen Amdi is a chat bot for WhatsApp. 💃🏻❤️",
+    "name": "TOM BOT 3.6.2v",
+    "description": "TOM BOT",
     "keywords": [
-        "Queen Amdi",
+        "Tom Bot",
         "WhatsApp",
         "User Bot",
         "Chat bot",
         "Button bot",
-        "Black Amda"
+        "Bhushitha"
     ],
     "website": "https://amdaniwasa.com",
     "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
     "success_url": "https://dashboard.heroku.com/apps/",
     "stack": "container",
     "env":{
-        "AMDI_SESSION": {
+        "TOM_SESSION": {
             "description": "Paste the session code you received after scanning the QR from https://replit.com/@BlackAmda/Queen-Amdi-QR-Code",
             "required": true
         },
@@ -38,7 +38,7 @@
             "required": true,
             "value": "default"
         },
-        "AMDI_CHAT": {
+        "TOM_CHAT": {
             "description": "Full Artificial intelligence(AI) based chat bot feature. Type 'true' to enable and type 'false' to disable.",
             "required": true,
             "value": "false"
@@ -80,7 +80,7 @@
         "CAP": {
             "description": "Caption of media files.",
             "required": true,
-            "value": "ᴳᵉⁿᵉʳᵃᵗᵉᵈ ᴮʸ Qᵘᵉᵉⁿ ᴬᵐᵈᶦ₂₀₂₂"
+            "value": "🍁TOM-BOT-MD🍁"
         },
         "DEMOTE_MESSAGE": {
             "description": "The message that appears when typing the '.demote' command. If you do not want to change it, keep 'default'.",
@@ -123,7 +123,7 @@
         "MENU": {
             "description": "Set your command to get full command list.",
             "required": true,
-            "value": "panel"
+            "value": "menu"
         },
         "MUTE_MESSAGE": {
             "description": "The message that appears when typing the '.mute' command. If you do not want to change it, keep 'default'.",
@@ -142,7 +142,7 @@
         "PANEL_EMOJI": {
             "description": "You can change panel emojis. (Make sure to split emojis with / )",
             "required": true,
-            "value": "📘/📖"
+            "value": "✅/🍁"
         },
         "PROMOTE_MESSAGE": {
             "description": "The message that appears when typing the '.promote' command. If you do not want to change it, keep 'default'.",
