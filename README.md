@@ -25,7 +25,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BhushithaArunod/TOM-BOT-MD)
 
 ### Deploy OLD v3 TOM-BOT-MD Bot
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/BlackAmda/QueenAmdi-v3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/BlackAmda/TOM-BOT-MD-v3)
 </div>
 
 ----
